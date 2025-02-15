@@ -169,3 +169,7 @@ You can modify the script for different types of analysis. Change the SQL querie
 
 ## Conclusion
 This script demonstrates a powerful yet simple approach to automating data analysis tasks using Python and SQL. It’s designed to help identify and manage missing or problematic data in lab results, but can easily be adapted to other types of data analysis. By leveraging SQL queries for efficient filtering and offering user control over which data to download, the project provides flexibility and efficiency. With the ability to integrate seamlessly with CSV files and SQLite, this tool can be a valuable addition to any data processing workflow.
+
+## License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
