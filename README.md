@@ -1,4 +1,6 @@
 # Data-Analysis-Automation-with-SQL-Python-Integration
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 This project aims to show how to automate an analysis task using SQL-Python integration, user input and CLI. 
 
