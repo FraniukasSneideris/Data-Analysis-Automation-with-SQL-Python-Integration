@@ -167,7 +167,9 @@ out_of_range_results.csv saved.
 All files downloaded.
 ```
 ## Customization
-You can modify the script for different types of analysis. Change the SQL queries in the analyze_lab_results function to fit the specific dataset you are working with. For example, if you're working with financial data, you could modify the queries to check for missing or out-of-range values relevant to that domain.
+You can modify the script for different types of analysis. Change the SQL queries in the analyze_lab_results function to fit the specific dataset you are working with. For example, if you're working with financial data, you could modify the queries to check for missing or out-of-range values relevant to that domain. 
+
+This script is also applicable for KPI/KRI (Key Performance/Risk Indicators) identification: if said KPI/KRI stem from value exceeding or not reaching certain thresholds, the SQL queries can be modified, or more can be added, so that this KPI/KRi are identified.
 
 ## Conclusion
 This script demonstrates a powerful yet simple approach to automating data analysis tasks using Python and SQL. It’s designed to help identify and manage missing or problematic data in lab results, but can easily be adapted to other types of data analysis. By leveraging SQL queries for efficient filtering and offering user control over which data to download, the project provides flexibility and efficiency. With the ability to integrate seamlessly with CSV files and SQLite, this tool can be a valuable addition to any data processing workflow.
