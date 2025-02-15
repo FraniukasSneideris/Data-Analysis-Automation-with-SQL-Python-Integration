@@ -1,0 +1,131 @@
+patient_id,name,surname,test_name,result,lower_ref,upper_ref
+P001,Name1,Surname1,Hemoglobin (g/dL),16.38,13,17
+P001,Name1,Surname1,White Blood Cells (10^9/L),11.12,4,10.5
+P001,Name1,Surname1,Platelets (10^9/L),285.61,150,400
+P001,Name1,Surname1,Cholesterol (mg/dL),165.62,125,200
+P001,Name1,Surname1,LDL (mg/dL),133.69,50,130
+P001,Name1,Surname1,HDL (mg/dL),59.61,40,60
+P001,Name1,Surname1,Triglycerides (mg/dL),,50,150
+P001,Name1,Surname1,Creatinine (mg/dL),1.35,0.6,1.3
+P001,Name1,Surname1,AST (U/L),14.51,10,40
+P001,Name1,Surname1,ALT (U/L),51.68,7,56
+P001,Name1,Surname1,Blood Pressure Systolic (mmHg),92.13,90,120
+P001,Name1,Surname1,Blood Pressure Diastolic (mmHg),,60,80
+P001,Name1,Surname1,Oxygen Saturation (%),88.79,95,100
+P002,Name2,Surname2,Hemoglobin (g/dL),15.11,13,17
+P002,Name2,Surname2,White Blood Cells (10^9/L),7.41,4,10.5
+P002,Name2,Surname2,Platelets (10^9/L),386.15,150,400
+P002,Name2,Surname2,Cholesterol (mg/dL),,125,200
+P002,Name2,Surname2,LDL (mg/dL),76.56,50,130
+P002,Name2,Surname2,HDL (mg/dL),47.9,40,60
+P002,Name2,Surname2,Triglycerides (mg/dL),69.14,50,150
+P002,Name2,Surname2,Creatinine (mg/dL),1.22,0.6,1.3
+P002,Name2,Surname2,AST (U/L),29.06,10,40
+P002,Name2,Surname2,ALT (U/L),50.48,7,56
+P002,Name2,Surname2,Blood Pressure Systolic (mmHg),114.49,90,120
+P002,Name2,Surname2,Blood Pressure Diastolic (mmHg),64.04,60,80
+P002,Name2,Surname2,Oxygen Saturation (%),109.51,95,100
+P003,Name3,Surname3,Hemoglobin (g/dL),17.48,13,17
+P003,Name3,Surname3,White Blood Cells (10^9/L),10.5,4,10.5
+P003,Name3,Surname3,Platelets (10^9/L),364.11,150,400
+P003,Name3,Surname3,Cholesterol (mg/dL),204.15,125,200
+P003,Name3,Surname3,LDL (mg/dL),136.87,50,130
+P003,Name3,Surname3,HDL (mg/dL),55.67,40,60
+P003,Name3,Surname3,Triglycerides (mg/dL),94.91,50,150
+P003,Name3,Surname3,Creatinine (mg/dL),1.15,0.6,1.3
+P003,Name3,Surname3,AST (U/L),26.33,10,40
+P003,Name3,Surname3,ALT (U/L),42.6,7,56
+P003,Name3,Surname3,Blood Pressure Systolic (mmHg),,90,120
+P003,Name3,Surname3,Blood Pressure Diastolic (mmHg),86.86,60,80
+P003,Name3,Surname3,Oxygen Saturation (%),108.76,95,100
+P004,Name4,Surname4,Hemoglobin (g/dL),15.41,13,17
+P004,Name4,Surname4,White Blood Cells (10^9/L),6.61,4,10.5
+P004,Name4,Surname4,Platelets (10^9/L),355.11,150,400
+P004,Name4,Surname4,Cholesterol (mg/dL),193.48,125,200
+P004,Name4,Surname4,LDL (mg/dL),119.89,50,130
+P004,Name4,Surname4,HDL (mg/dL),59.75,40,60
+P004,Name4,Surname4,Triglycerides (mg/dL),118.34,50,150
+P004,Name4,Surname4,Creatinine (mg/dL),1.25,0.6,1.3
+P004,Name4,Surname4,AST (U/L),31.38,10,40
+P004,Name4,Surname4,ALT (U/L),27.77,7,56
+P004,Name4,Surname4,Blood Pressure Systolic (mmHg),119.51,90,120
+P004,Name4,Surname4,Blood Pressure Diastolic (mmHg),57.9,60,80
+P004,Name4,Surname4,Oxygen Saturation (%),97.19,95,100
+P005,Name5,Surname5,Hemoglobin (g/dL),,13,17
+P005,Name5,Surname5,White Blood Cells (10^9/L),8.83,4,10.5
+P005,Name5,Surname5,Platelets (10^9/L),427.87,150,400
+P005,Name5,Surname5,Cholesterol (mg/dL),119.02,125,200
+P005,Name5,Surname5,LDL (mg/dL),64.74,50,130
+P005,Name5,Surname5,HDL (mg/dL),59.93,40,60
+P005,Name5,Surname5,Triglycerides (mg/dL),99.51,50,150
+P005,Name5,Surname5,Creatinine (mg/dL),1.13,0.6,1.3
+P005,Name5,Surname5,AST (U/L),,10,40
+P005,Name5,Surname5,ALT (U/L),22.65,7,56
+P005,Name5,Surname5,Blood Pressure Systolic (mmHg),84.32,90,120
+P005,Name5,Surname5,Blood Pressure Diastolic (mmHg),67.95,60,80
+P005,Name5,Surname5,Oxygen Saturation (%),98.8,95,100
+P006,Name6,Surname6,Hemoglobin (g/dL),17.66,13,17
+P006,Name6,Surname6,White Blood Cells (10^9/L),9.69,4,10.5
+P006,Name6,Surname6,Platelets (10^9/L),167.2,150,400
+P006,Name6,Surname6,Cholesterol (mg/dL),123.07,125,200
+P006,Name6,Surname6,LDL (mg/dL),55.72,50,130
+P006,Name6,Surname6,HDL (mg/dL),46.01,40,60
+P006,Name6,Surname6,Triglycerides (mg/dL),142.93,50,150
+P006,Name6,Surname6,Creatinine (mg/dL),1.43,0.6,1.3
+P006,Name6,Surname6,AST (U/L),34.68,10,40
+P006,Name6,Surname6,ALT (U/L),50.6,7,56
+P006,Name6,Surname6,Blood Pressure Systolic (mmHg),112.46,90,120
+P006,Name6,Surname6,Blood Pressure Diastolic (mmHg),57.64,60,80
+P006,Name6,Surname6,Oxygen Saturation (%),,95,100
+P007,Name7,Surname7,Hemoglobin (g/dL),12.48,13,17
+P007,Name7,Surname7,White Blood Cells (10^9/L),8.17,4,10.5
+P007,Name7,Surname7,Platelets (10^9/L),149.92,150,400
+P007,Name7,Surname7,Cholesterol (mg/dL),167.8,125,200
+P007,Name7,Surname7,LDL (mg/dL),142.7,50,130
+P007,Name7,Surname7,HDL (mg/dL),54.25,40,60
+P007,Name7,Surname7,Triglycerides (mg/dL),113.57,50,150
+P007,Name7,Surname7,Creatinine (mg/dL),1.41,0.6,1.3
+P007,Name7,Surname7,AST (U/L),,10,40
+P007,Name7,Surname7,ALT (U/L),,7,56
+P007,Name7,Surname7,Blood Pressure Systolic (mmHg),,90,120
+P007,Name7,Surname7,Blood Pressure Diastolic (mmHg),54.48,60,80
+P007,Name7,Surname7,Oxygen Saturation (%),109.06,95,100
+P008,Name8,Surname8,Hemoglobin (g/dL),16.63,13,17
+P008,Name8,Surname8,White Blood Cells (10^9/L),5.02,4,10.5
+P008,Name8,Surname8,Platelets (10^9/L),316.33,150,400
+P008,Name8,Surname8,Cholesterol (mg/dL),136.96,125,200
+P008,Name8,Surname8,LDL (mg/dL),95.85,50,130
+P008,Name8,Surname8,HDL (mg/dL),45.4,40,60
+P008,Name8,Surname8,Triglycerides (mg/dL),131.78,50,150
+P008,Name8,Surname8,Creatinine (mg/dL),0.93,0.6,1.3
+P008,Name8,Surname8,AST (U/L),29.89,10,40
+P008,Name8,Surname8,ALT (U/L),52.51,7,56
+P008,Name8,Surname8,Blood Pressure Systolic (mmHg),94.55,90,120
+P008,Name8,Surname8,Blood Pressure Diastolic (mmHg),,60,80
+P008,Name8,Surname8,Oxygen Saturation (%),90.54,95,100
+P009,Name9,Surname9,Hemoglobin (g/dL),12.42,13,17
+P009,Name9,Surname9,White Blood Cells (10^9/L),9.27,4,10.5
+P009,Name9,Surname9,Platelets (10^9/L),250.3,150,400
+P009,Name9,Surname9,Cholesterol (mg/dL),206.13,125,200
+P009,Name9,Surname9,LDL (mg/dL),110.22,50,130
+P009,Name9,Surname9,HDL (mg/dL),,40,60
+P009,Name9,Surname9,Triglycerides (mg/dL),98.46,50,150
+P009,Name9,Surname9,Creatinine (mg/dL),1.02,0.6,1.3
+P009,Name9,Surname9,AST (U/L),28.01,10,40
+P009,Name9,Surname9,ALT (U/L),26.46,7,56
+P009,Name9,Surname9,Blood Pressure Systolic (mmHg),104.89,90,120
+P009,Name9,Surname9,Blood Pressure Diastolic (mmHg),63.93,60,80
+P009,Name9,Surname9,Oxygen Saturation (%),104,95,100
+P010,Name10,Surname10,Hemoglobin (g/dL),15.58,13,17
+P010,Name10,Surname10,White Blood Cells (10^9/L),4.76,4,10.5
+P010,Name10,Surname10,Platelets (10^9/L),341.3,150,400
+P010,Name10,Surname10,Cholesterol (mg/dL),152.29,125,200
+P010,Name10,Surname10,LDL (mg/dL),124.77,50,130
+P010,Name10,Surname10,HDL (mg/dL),45.83,40,60
+P010,Name10,Surname10,Triglycerides (mg/dL),72.15,50,150
+P010,Name10,Surname10,Creatinine (mg/dL),0.8,0.6,1.3
+P010,Name10,Surname10,AST (U/L),31.73,10,40
+P010,Name10,Surname10,ALT (U/L),22.29,7,56
+P010,Name10,Surname10,Blood Pressure Systolic (mmHg),126.98,90,120
+P010,Name10,Surname10,Blood Pressure Diastolic (mmHg),54.05,60,80
+P010,Name10,Surname10,Oxygen Saturation (%),103.44,95,100
