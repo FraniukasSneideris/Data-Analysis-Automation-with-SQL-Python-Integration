@@ -136,7 +136,6 @@ pip install pandas argparse sqlalchemy
 ## How to use
 
 Run the script on the terminal of your prefered IDE using the following format:
-
 *python automated_analysis.py "filename.csv"*
 
 Where "filename.csv" should contain the lab results (I am providing a wide range of CSV files in this repository to try the script).
