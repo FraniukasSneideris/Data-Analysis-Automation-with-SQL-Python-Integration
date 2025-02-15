@@ -120,7 +120,7 @@ if __name__ == "__main__":
 
 To install, please run the following on your terminal:
 ```bash
-pip install pandas sqlalchemy
+pip install pandas argparse sqlalchemy
 ```
 
 ## How it works
