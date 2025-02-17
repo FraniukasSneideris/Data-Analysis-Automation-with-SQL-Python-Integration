@@ -4,7 +4,7 @@
 
 This project aims to show how to automate an analysis task using SQL-Python integration, user input and CLI. 
 
-Lab results analysis automatation was used in this case to show the script functionality, but the script can be easily adapted to other types of data analysis. By using Python and SQL, it integrates database management and data analysis, offering an efficient way to handle data that meets specific conditions. The script reads a CSV file containing lab results, performs checks for missing data and out-of-range results, and allows the user to download these results as CSV files.
+Lab results analysis automation was used in this case to show the script functionality, but the script can be easily adapted to other types of data analysis. By using Python and SQL, it integrates database management and data analysis, offering an efficient way to handle data that meets specific conditions. The script reads a CSV file containing lab results, performs checks for missing data and out-of-range results, and allows the user to download these results as CSV files.
 
 ## Code Overview
 
