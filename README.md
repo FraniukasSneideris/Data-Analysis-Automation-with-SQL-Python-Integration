@@ -21,6 +21,7 @@ from sqlalchemy import create_engine
 import pandas as pd
 import argparse
 
+
 def read_file(file):
     df = pd.read_csv(file)
     return df
