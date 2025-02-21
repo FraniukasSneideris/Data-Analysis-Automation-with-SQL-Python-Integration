@@ -1,4 +1,4 @@
-# Data-Analysis-Automation-with-SQL-Python-Integration
+# Data-Analysis-with-SQL-Python-Integration
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
